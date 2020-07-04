@@ -46,8 +46,8 @@ function envoyerSMS(){
     const message = encodeURI(messageAenvoyer);
     const numTelTo = encodeURI(numTelToElement);
 
-    const url = "AC2e8b9fb612e0d64118ce0363c37c1f8e";
-    const auth = "9e12727a23ad2ebc932958363d2257b0";
+    const url = "XX";
+    const auth = "XX";
 
     const myHeader = new Headers({
         'Content-Type': 'application/x-www-form-urlencoded',
